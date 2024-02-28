@@ -1,0 +1,29 @@
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f8f9fa; /* Set a background color for better visibility */
+}
+
+.product-card {
+    display: flex;
+    margin: auto;
+    height: 50vh;
+    border: 1px solid #e2e2e2;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Added box-shadow for a card-like appearance */
+    overflow: hidden;
+    background-color: #ffffff; /* Set background color for the card */
+}
+.p-img{
+    margin-right: 10%;
+}
+
+.p-img img{
+    
+    width: 100%;
+    height: 100%;
+    border-bottom: 1px solid #e2e2e2; /* Border for image separation */
+}

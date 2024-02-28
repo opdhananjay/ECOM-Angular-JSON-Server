@@ -1,0 +1,115 @@
+{
+  "Sellers": [
+    {
+      "name": "Dhanu",
+      "email": "Dhanu@seller.com",
+      "password": "Dhanu@123",
+      "id": 1
+    },
+    {
+      "Name": "1@gmail.com",
+      "Email": "1@gmail.com",
+      "Password": "12",
+      "id": 2
+    }
+  ],
+  "Products": [
+    {
+      "name": "Dell L3490",
+      "price": "15,000",
+      "category": "Laptop",
+      "desc": "Professional Laptop",
+      "img": "https://www.boip.in/647-large_default/dell-latitude-3490-14-inch-i5-7th-gen-8gb-ram-256gb-ssd-windows-10-pro.jpg",
+      "id": 1
+    },
+    {
+      "name": "Desktop I5",
+      "price": "24,000",
+      "category": "Dekstop PC",
+      "desc": "Gaming",
+      "img": "https://p1-ofp.static.pub//medias/25572178964_LOQ17IRB8_202301121027151691549781770.png",
+      "id": 2
+    },
+    {
+      "name": "HDD 1TB",
+      "price": "1000",
+      "category": "Storage Device",
+      "desc": "HDD ?SSD",
+      "img": "https://aonecomputers.in/wp-content/uploads/2023/02/450hp.jpg",
+      "id": 3
+    },
+    {
+      "name": "Server PC",
+      "price": "45000",
+      "category": "Server DESKTOP",
+      "desc": "Workstation",
+      "img": "https://aonecomputers.in/wp-content/uploads/2023/12/hp-z640.jpg",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "1@gmail.com",
+      "email": "1@gmail.com",
+      "password": "12",
+      "id": 1
+    },
+    {
+      "name": "Peter",
+      "email": "p@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Dhananjay Dangadi",
+      "email": "d@gmail.com",
+      "password": "12",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "name": "Dell L3490",
+      "price": "15,000",
+      "category": "Laptop",
+      "desc": "Professional Laptop",
+      "img": "https://www.boip.in/647-large_default/dell-latitude-3490-14-inch-i5-7th-gen-8gb-ram-256gb-ssd-windows-10-pro.jpg",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 1,
+      "id": 3
+    },
+    {
+      "name": "HDD 1TB",
+      "price": "1000",
+      "category": "Storage Device",
+      "desc": "HDD ?SSD",
+      "img": "https://aonecomputers.in/wp-content/uploads/2023/02/450hp.jpg",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 3,
+      "id": 4
+    },
+    {
+      "name": "Desktop I5",
+      "price": "24,000",
+      "category": "Dekstop PC",
+      "desc": "Gaming",
+      "img": "https://p1-ofp.static.pub//medias/25572178964_LOQ17IRB8_202301121027151691549781770.png",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 2,
+      "id": 5
+    }
+  ],
+  "orders": [
+    {
+      "email": "Dhanuop",
+      "address": "Manpada ",
+      "mobile": "0987654321",
+      "totalPrice": 1100,
+      "userId": 1,
+      "id": 2
+    }
+  ]
+}

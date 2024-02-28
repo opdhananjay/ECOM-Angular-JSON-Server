@@ -1,0 +1,26 @@
+{
+  "cart": [
+    {
+      "name": "Desktop Computer",
+      "price": "12345678",
+      "category": "DesktopComputer",
+      "desc": "Desktop I5-10th Gen",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3r77tH2F3NhyE7Zac5_Y4KAwdiG3N6Ba4A&usqp=CAU",
+      "id": 1,
+      "quantity": 1,
+      "userid": 1,
+      "productId": "P1101"
+    },
+    {
+      "name": "Desktop Computer",
+      "price": "12345678",
+      "category": "DesktopComputer",
+      "desc": "Desktop I5-10th Gen",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3r77tH2F3NhyE7Zac5_Y4KAwdiG3N6Ba4A&usqp=CAU",
+      "id": 101,
+      "quantity": 1,
+      "userid": 2,
+      "productId": "P2101"
+    }
+  ]
+}
